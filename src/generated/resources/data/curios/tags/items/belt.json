@@ -9,23 +9,23 @@
       "required": false
     },
     {
-      "id": "supplementaries:copper_lantern",
+      "id": "suppsquared:copper_lantern",
       "required": false
     },
     {
-      "id": "supplementaries:crimson_lantern",
+      "id": "suppsquared:crimson_lantern",
       "required": false
     },
     {
-      "id": "supplementaries:silver_lantern",
+      "id": "suppsquared:silver_lantern",
       "required": false
     },
     {
-      "id": "supplementaries:brass_lantern",
+      "id": "suppsquared:brass_lantern",
       "required": false
     },
     {
-      "id": "supplementaries:lead_lantern",
+      "id": "suppsquared:lead_lantern",
       "required": false
     },
     {
@@ -74,6 +74,42 @@
     },
     {
       "id": "mcwlights:bell_lantern",
+      "required": false
+    },
+    {
+      "id": "aether_redux:veridium_lantern",
+      "required": false
+    },
+    {
+      "id": "ancient_aether:holystone_lantern",
+      "required": false
+    },
+    {
+      "id": "ancient_aether:sentry_lantern",
+      "required": false
+    },
+    {
+      "id": "ancient_aether:angelic_lantern",
+      "required": false
+    },
+    {
+      "id": "ancient_aether:hellfire_lantern",
+      "required": false
+    },
+    {
+      "id": "ancient_aether:aerotic_lantern",
+      "required": false
+    },
+    {
+      "id": "ancient_aether:gale_lantern",
+      "required": false
+    },
+    {
+      "id": "biomemakeover:lightning_bug_bottle",
+      "required": false
+    },
+    {
+      "id": "etcetera:squid_lamp",
       "required": false
     },
     {
